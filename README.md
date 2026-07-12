@@ -9,31 +9,31 @@ This project uses Google Teachable Machine to build an image recognition model t
 
 Steps
 
-Opened Google Teachable Machine and selected the Image Project.
+1-Opened Google Teachable Machine and selected the Image Project.
 
-Created two classes: Crocodile and Turtle.
+2-Created two classes: Crocodile and Turtle.
 
-Uploaded multiple images for each class.
+3-Uploaded multiple images for each class.
 
-Trained the model using the uploaded images.
+4-Trained the model using the uploaded images.
 
-Evaluated the model to check its prediction accuracy.
+5-Evaluated the model to check its prediction accuracy.
 
-Exported the trained model in TensorFlow/Keras format.
+6-Exported the trained model in TensorFlow/Keras format.
 
-Opened Google Colab and uploaded the exported model files.
+7-Opened Google Colab and uploaded the exported model files.
 
-Wrote a Python script to:
+8-Wrote a Python script to:
 
-Load the trained model.
+1-Load the trained model.
 
-Load a test image.
+2-Load a test image.
 
-Preprocess the image.
+3-Preprocess the image.
 
-Predict whether the image is a Crocodile or a Turtle.
+4-Predict whether the image is a Crocodile or a Turtle.
 
-Display the predicted class with its confidence score.
+5-Display the predicted class with its confidence score.
 
 Files Included
 
