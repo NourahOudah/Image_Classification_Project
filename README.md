@@ -3,11 +3,11 @@ Simple image classification project using Google Teachable Machine and Python.
 Image Recognition using Teachable Machine
 
 
-Project Overview
+Project Overview:
 
 This project uses Google Teachable Machine to build an image recognition model that classifies images into two categories: Crocodile and Turtle. After training, the model was exported and used in Google Colab with Python to predict the class of a new image.
 
-Steps
+Steps:
 
 1-Opened Google Teachable Machine and selected the Image Project.
 
@@ -35,7 +35,7 @@ Steps
 
 5-Display the predicted class with its confidence score.
 
-Files Included
+Files Included:
 
 keras_model.h5 – Trained model.
 
@@ -51,16 +51,16 @@ test_image.jpg – Sample image used for testing.
 screenshot.png – Screenshot of the prediction result.
 
 
-Tools Used
+Tools Used:
 
-Google Teachable Machine
+1-Google Teachable Machine
 
-Google Colab
+2-Google Colab
 
-Python
+3-Python
 
-TensorFlow
+4-TensorFlow
 
-NumPy
+5-NumPy
 
-Pillow
+6-Pillow
